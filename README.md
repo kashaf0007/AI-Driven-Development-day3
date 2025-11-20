@@ -32,4 +32,4 @@
 
 ## Update the Gemini 3.0 model
 
-[![Prompt Image](./prompt.jpeg)](./prompt.jpeg)
+[![Gemini CLI](./gemini.jpeg)](./gemini.jpeg)
